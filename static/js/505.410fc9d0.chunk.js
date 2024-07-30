@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkflexy=self.webpackChunkflexy||[]).push([[505],{26505:function(e,t,n){n.r(t);var r=n(72791),s=n(57689),a=n(80184);t.default=function(){var e=(0,s.s0)();return(0,r.useEffect)((function(){if(localStorage.getItem(""))return e("/dashboards/tables")}),[]),(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(s.j3,{})})}}}]);
+//# sourceMappingURL=505.410fc9d0.chunk.js.map
